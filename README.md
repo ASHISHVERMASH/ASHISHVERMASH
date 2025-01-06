@@ -1,4 +1,19 @@
 ## Hi there 👋
+
+ <h1 align="center">Hi 👋, I'm Ashish Ranjan</h1>
+
+- 🔭 I’m currently working on Frontend Developer
+- 🌱 I’m currently practicing DSA in C++
+- 📫 How to reach me: ashishranjan4241@gmail.com
+- ⚡ Fun fact: I'm comming to Coding
+<div id="badges">
+  <a href="https://github.com/ASHISHVERMASH">
+    <img src="https://img.shields.io/badge/Github-white?style=for-the-badge&logo=Github&logoColor=black" alt="Github Badge"/>
+  </a>
+  <a href="https://www.instagram.com/ashishverma_2873">
+    <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+  </a>
+  
 # 💻 Tech Stack
 <!-- Badges from https://github.com/Ileriayo/markdown-badges -->
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
