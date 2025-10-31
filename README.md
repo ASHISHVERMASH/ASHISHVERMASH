@@ -2,7 +2,7 @@
 
  <h1 align="center">Hi 👋, I'm Ashish Ranjan</h1>
 
-- 🔭 I’m currently working on Frontend Developer
+- 🔭 I’m currently working on backend Developer
 - 🌱 I’m currently practicing DSA in Java
 - 📫 How to reach me: ashishranjan4241@gmail.com
 - ⚡ Fun fact: I'm comming to Coding
